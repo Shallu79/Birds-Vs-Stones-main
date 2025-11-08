@@ -28,6 +28,7 @@ def main():
     running = True
 
     # get some images
+    
     shooterTex = pygame.image.load('data/gfx/shooter.png')
     projectileTex = pygame.image.load('data/gfx/rock.png')
     polesTex = pygame.image.load('data/gfx/poles.png')
